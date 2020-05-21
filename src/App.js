@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Adonis' Demo </h1>
+      <h1>Adonis </h1>
       <h2>
         Deployed with{" "}
         <a
